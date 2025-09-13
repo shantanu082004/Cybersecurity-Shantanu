@@ -1,1 +1,1 @@
-This folder will contain CEH labs and reports
+This folder will contain CEH labs
